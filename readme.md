@@ -44,11 +44,6 @@
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryandanendra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryandanendra&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
