@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
-## 🏆 Proyek Unggulan
+<!-- ## 🏆 Proyek Unggulan
 
 <div align="center">
   <a href="https://github.com/bryandanendra/project1">
@@ -66,7 +66,7 @@
   <a href="https://github.com/bryandanendra/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryandanendra&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
-</div>
+</div> -->
 
 ## 📊 Kontribusi GitHub
 
