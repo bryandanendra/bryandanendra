@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Halo, Saya Developer Indonesia! 👋
+=======
+# Halo, Saya Brian Danendra! 👋
+>>>>>>> e9c4533477154cc1e9dc1d9b564bac45539814af
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
