@@ -1,23 +1,20 @@
-<<<<<<< HEAD
-# Halo, Saya Developer Indonesia! 👋
-=======
 # Halo, Saya Brian Danendra! 👋
->>>>>>> e9c4533477154cc1e9dc1d9b564bac45539814af
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" width="100"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bryandanendra/">
+  <!-- <a href="https://www.linkedin.com/in/bryandanendra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/bryandanendra">
+  </a> -->
+  <!-- <a href="https://www.youtube.com/channel/bryandanendra">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/bryandanendra">
+  </a> -->
+  <!-- <a href="https://twitter.com/bryandanendra">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
@@ -26,24 +23,24 @@
 
 ## 🧑‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan **[Proyek Keren Saya](https://github.com/bryandanendra/awesome-project)**
+- 🔭 Saat ini saya sedang mengerjakan **[Proyek Keren Saya](https://github.com/bryandanendra/)**
 - 🌱 Sedang mempelajari **Teknologi Baru yang Menarik**
-- 👯 Mencari kolaborasi untuk **Proyek Open Source**
-- 💬 Tanyakan pada saya tentang **JavaScript, React, Node.js, PHP**
-- 📫 Email saya: **email@example.com**
-- ⚡ Fakta menarik: **Saya suka bermain gitar dan mendaki gunung!**
+- 📫 Email saya: **bryan4icm@gmail.com**
+- 🌐 Kunjungi website saya: **[masbri.site](https://masbri.site)** <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" height="20" align="center"/>
+- ⚡  Hal lain: **Saya saat ini bekerja sebagai Video Editor**
+
 
 ## 🛠️ Bahasa dan Tools
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co.com/N2mb4XKJ/premiere-pro.png" title="Adobe Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co.com/kVgCVqg1/after-effects.png" title="Adobe After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co.com/yFJyWPC4/Da-Vinci-Resolve-17-logo.png" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co.com/4RZDS3xM/capcut-icon.png" title="CapCut" alt="CapCut" width="40" height="40"/>&nbsp;
 </div>
 
 ## 📊 GitHub Stats
@@ -71,10 +68,10 @@
   </a>
 </div>
 
-## 🐍 Kontribusi GitHub
+## 📊 Kontribusi GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://ghchart.rshah.org/bryandanendra" alt="Grafik Kontribusi GitHub" />
 </div>
 
 ---
