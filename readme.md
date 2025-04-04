@@ -6,18 +6,6 @@
 </div>
 
 <div align="center">
-  <!-- <a href="https://www.linkedin.com/in/bryandanendra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
-  <!-- <a href="https://www.youtube.com/channel/bryandanendra">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <!-- <a href="https://twitter.com/bryandanendra">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=bryandanendra&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
@@ -51,25 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
-
-<!-- ## 🏆 Proyek Unggulan
-
-<div align="center">
-  <a href="https://github.com/bryandanendra/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryandanendra&repo=project1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/bryandanendra/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryandanendra&repo=project2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div> -->
-
-## 📊 Kontribusi GitHub
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/bryandanendra" alt="Grafik Kontribusi GitHub" />
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
