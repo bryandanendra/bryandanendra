@@ -32,9 +32,7 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryandanendra&theme=dark&background=000000" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
