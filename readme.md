@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan **[Proyek Keren Saya](https://github.com/bryandanendra/)**
+- 🔭 Saat ini saya sedang mengerjakan **[Proyek Keren Saya](https://particlemagnet.vercel.app/)**
 - 🌱 Sedang mempelajari **Teknologi Baru yang Menarik**
 - 📫 Email saya: **bryan4icm@gmail.com**
 - 🌐 Kunjungi website saya: **[masbri.site](https://masbri.site)** <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" height="20" align="center"/>
