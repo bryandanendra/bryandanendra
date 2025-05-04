@@ -35,7 +35,7 @@
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/#3aff17/bryandanendra"
+    src="https://ghchart.rshah.org/3aff17/bryandanendra"
     alt="Blue Github Chart"
   />
 </p>
