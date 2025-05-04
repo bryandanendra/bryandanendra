@@ -35,14 +35,10 @@
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/bryandanendra"
-    alt="Contributions Calendar"
+    src="https://github.com/users/bryandanendra/contributions.svg"
+    alt="GitHub Contributions Calendar"
   />
 </p>
-
-
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
