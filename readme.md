@@ -33,8 +33,8 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Contributions Calendar](https://github.com/users/bryandanendra/contributions.svg)
 
-![GitHub Contributions Calendar](https://github.com/users/bryandanendra/contributions)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
