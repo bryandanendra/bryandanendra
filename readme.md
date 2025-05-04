@@ -33,6 +33,9 @@
 
 ## 📊 GitHub Stats
 
+<a href="https://github.com/USERNAME">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bryandanendra&theme=react-dark&hide_border=true" alt="Contributions graph" />
+</a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
