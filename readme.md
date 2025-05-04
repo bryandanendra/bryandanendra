@@ -33,12 +33,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github.com/users/bryandanendra/contributions.svg"
+    src="https://github.com/users/bryandanendra/contributions.svg?raw=true"
     alt="GitHub Contributions Calendar"
   />
-</div>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
