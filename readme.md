@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/bryandanendra">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bryandanendra&theme=react-dark&hide_border=true" alt="Contributions graph" />
 </a>
 
