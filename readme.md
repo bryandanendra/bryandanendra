@@ -33,7 +33,13 @@
 
 ## 📊 GitHub Stats
 
-![Contributions Calendar](https://ghchart.rshah.org/bryandanendra)
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/bryandanendra"
+    alt="Blue Github Chart"
+  />
+</p>
+
 
 
 
