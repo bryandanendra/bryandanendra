@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats & 🎵 Spotify
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
  <div align="left">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
