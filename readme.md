@@ -36,32 +36,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 🎵 Spotify
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&width=300" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&count=3" />
+  <img src="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
-###
+<!-- ### -->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
