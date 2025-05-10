@@ -42,14 +42,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&count={count})"  />
 </div>
 
 ###
@@ -66,6 +63,9 @@
 
 ###
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 <div align="center">
   
