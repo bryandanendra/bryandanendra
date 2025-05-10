@@ -39,13 +39,13 @@
 ## 📊 GitHub Stats & 🎵 Spotify
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
       </td>
-      <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&width=300" />
+      <td style="border: none; padding: 0 10px;">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&count=3&width=300" />
       </td>
     </tr>
   </table>
