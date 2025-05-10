@@ -1,13 +1,10 @@
-# Halo, Saya Brian Danendra! 👋
-
-
 <div align="center">
   <img src="/github-header-image.png"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bryandanendra&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+</div> -->
 
 ## 🧑‍💻 Tentang Saya
 
@@ -63,7 +60,7 @@
 <!-- ### -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
