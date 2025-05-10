@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" width="100"/>
+  <img src="/github-header-image.png" width="100"/>
 </div>
 
 <div align="center">
