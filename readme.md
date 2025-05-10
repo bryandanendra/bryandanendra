@@ -6,16 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=bryandanendra&style=flat-square&color=blue" alt="Profile Views"/>
 </div> -->
 
-## 🧑‍💻 Tentang Saya
+## 🧑‍💻 About Me
 
-- 🔭 Saat ini saya sedang mengerjakan **[Proyek Keren Saya](https://particlemagnet.vercel.app/)**
-- 🌱 Sedang mempelajari **Teknologi Baru yang Menarik**
-- 📫 Email saya: **bryan4icm@gmail.com**
-- 🌐 Kunjungi website saya: **[masbri.site](https://masbri.site)** <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" height="20" align="center"/>
-- ⚡  Hal lain: **Saya saat ini bekerja sebagai Video Editor**
+- 🔭 I'm currently working on **[My Cool Project](https://particlemagnet.vercel.app/)**
+- 🌱 I'm learning **Exciting New Technologies**
+- 📫 My email: **bryan4icm@gmail.com**
+- 🌐 Visit my website: **[masbri.site](https://masbri.site)** <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" height="20" align="center"/>
+- ⚡ Fun fact: **I currently work as a Video Editor**
 
 
-## 🛠️ Bahasa dan Tools
+## 🛠️ Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  ### Terima kasih telah mengunjungi profil saya! 😊
+  ### Thank you for visiting my profile! 😊
   
   ![Visitor Count](https://profile-counter.glitch.me/bryandanendra/count.svg)
   
