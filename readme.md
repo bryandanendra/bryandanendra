@@ -41,10 +41,8 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandanendra&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  </div>
-  <div>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&count=3&width=300" />
-  </div>
+  </div>a
 </div>
 
 
