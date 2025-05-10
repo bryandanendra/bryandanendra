@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&count={count})"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21o6lw5no42txerd7zjykgavq&count=5" />
 </div>
 
 ###
