@@ -2,10 +2,6 @@
   <img src="/github-header-image.png"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bryandanendra&style=flat-square&color=blue" alt="Profile Views"/>
-</div> -->
-
 ## 🧑‍💻 About Me
 
 - 🔭 I'm currently working on **[My Cool Project](https://particlemagnet.vercel.app/)**
