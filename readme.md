@@ -53,8 +53,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph.svg">
 </picture> -->
 
-<!-- ### -->
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
