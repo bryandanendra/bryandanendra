@@ -5,7 +5,6 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I'm currently working on **[My Project](https://particlemagnet.vercel.app/)**
-- 🌱 I'm learning **Exciting New Technologies**
 - 📫 My email: **bryan4icm@gmail.com**
 - 🌐 Visit my website: **[masbri.vercel.app](https://masbri.vercel.app)** <img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" height="20" align="center"/>
 - ⚡ Fun fact: **I currently work as a Video Editor**
