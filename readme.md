@@ -1,12 +1,14 @@
 <div align="center">
+  <img src="/github-header-image.png"/>
+</div>
 
-<img src="https://i.ibb.co.com/Zz5gvXtF/profilepic.png" width="120" style="border-radius: 50%;"/>
+<div align="center">
 
 # Hi, I'm Brian Danendra 👋
 
 <a href="https://particlemagnet.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Video+Editor+%7C+Motion+Graphics;Self-Taught+Web+Developer;Building+cool+things+with+React+%26+Node.js;Always+learning+something+new" alt="Typing SVG" /></a>
 
-[![Website](https://img.shields.io/badge/masbri.site-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masbri.site)
+[![Website](https://img.shields.io/badge/masbri.vercel.app-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masbri.vercel.app)
 [![Email](https://img.shields.io/badge/bryan4icm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan4icm@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bryandanendra)
 [![Profile Views](https://komarev.com/ghpvc/?username=bryandanendra&style=for-the-badge&color=38bdf8&label=Profile+Views)](https://github.com/bryandanendra)
@@ -18,11 +20,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-current_project:  "Particle Magnet" — https://particlemagnet.vercel.app/
+current_project:    "Particle Magnet" — https://particlemagnet.vercel.app/
 currently_learning: "New & exciting web technologies"
-day_job:           "Video Editor & Motion Graphics Artist"
-side_quest:        "Self-taught Web Developer"
-fun_fact:          "I make things move — pixels on a timeline, and code in the browser"
+day_job:             "Video Editor & Motion Graphics Artist"
+side_quest:          "Self-taught Web Developer"
+fun_fact:            "I make things move — pixels on a timeline, and code in the browser"
 ```
 
 <br/>
@@ -80,19 +82,18 @@ fun_fact:          "I make things move — pixels on a timeline, and code in the
 
 <br/>
 
+<!--
 ## 👾 Pacman Contribution Graph
+(currently disabled)
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bryandanendra/bryandanendra/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-
 </div>
-
-<br/>
+-->
 
 ## 🎵 Spotify — Recently Played
 
@@ -104,7 +105,7 @@ fun_fact:          "I make things move — pixels on a timeline, and code in the
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 </div>
 
@@ -112,7 +113,7 @@ fun_fact:          "I make things move — pixels on a timeline, and code in the
 
 <div align="center">
 
-### Thanks for stopping by! 😊
+### Thank you for visiting my profile! 😊
 
 ![Visitor Count](https://profile-counter.glitch.me/bryandanendra/count.svg)
 
