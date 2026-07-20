@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/masbri.vercel.app-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masbri.vercel.app)
 [![Email](https://img.shields.io/badge/bryan4icm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan4icm@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bryandanendra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/briandanendra)
 [![Profile Views](https://komarev.com/ghpvc/?username=bryandanendra&style=for-the-badge&color=38bdf8&label=Profile+Views)](https://github.com/bryandanendra)
 
 </div>
